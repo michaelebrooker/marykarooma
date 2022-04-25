@@ -1,0 +1,22 @@
+# Hugo default output directory
+/public
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+# Other
+# VSCode
+*.code-workspace
+
+# directory for resources only used locally, such as artwork or documentation
+/utility
+
+# ignore json files
+# *.json
