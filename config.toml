@@ -1,3 +1,29 @@
-baseURL = "http://example.org/"
+baseURL = "https://nalinie.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Nalinie Santhamoorthy"
+theme = "pomegranate"
+relativeURLS = true
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+copyright = "Copyright 2000-{year} Nalinie Santhamoorthy. All rights reserved."
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  expiryDate = ["expiryDate"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+
+
+[module]
+    [[module.mounts]]
+    source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    target = "assets/js/bootstrap.bundle.min.js"
+
+
+[params]
+  sausages = 10
+  pre = "<h3>Active"
+  post = "</h3>"
+  
+  
+  
