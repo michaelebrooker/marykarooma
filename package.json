@@ -1,0 +1,26 @@
+{
+  "name": "nalinie",
+  "version": "1.0.0",
+  "description": "Nalinies website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelebrooker/nalinie.git"
+  },
+  "keywords": [
+    "nalinie",
+    "santhamoorthy"
+  ],
+  "author": "Michael Brooker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelebrooker/nalinie/issues"
+  },
+  "homepage": "https://github.com/michaelebrooker/nalinie#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

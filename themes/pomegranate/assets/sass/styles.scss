@@ -1,18 +1,22 @@
-// custom styles for michaelbrooker.com, June 2020
+// custom styles for nalinie.netlify.app, May 2022
 // Author: Mike Brooker
+// Stylesheet adapted from micdoc/midday theme
 // Revision: 0  23/06/2021
 
+// now using Bootstrap5.1.3
+// new colours
+$bgcolor: white;
+$pomegranate: rgb(198, 14, 112);
+$saffron: rgb(250, 178, 30);
+$peach: rgb(244, 178, 180);
+$greysky: rgb(80, 80, 80);
+// retained colours
 
-// using Bootstrap5 Beta
-
-$bgcolor: rgb(202, 216, 243);
-$hdcolor: rgb(27, 105, 165);
-$bodycolor: rgb(3, 38, 58);
+$bodycolor: $pomegranate;
 $hccolor: #91b4dd;
 $hddcolor: #041c38;
-$logolight: #168cdb;
-$logodark: $hdcolor;
 $h4color: #555555;
+$hdcolor: #222222;
 
 // sticky footer style
 main > .container {
@@ -22,7 +26,7 @@ main > .container {
 // card body styles
 .card-body {
 background-color: $hdcolor;
-color: white;
+color: $saffron;
 }
 
 body {
@@ -58,14 +62,23 @@ h3 {
     color:$h4color; 
   }
 // splash image
+
+.banner-hr {
+  color: $peach;
+  }
+  
 .bigBrandDark {
-  color: $logodark;
+  font-family: 'Pacifico', cursive;
+  
+  color: $pomegranate;
 }
 .bigBrandLight {
-  color: $logolight;
+  font-family: 'Pacifico', cursive;
+  color: $saffron;
 }
 .footerBrand {
   color: $hddcolor;
+  font-family: 'Pacifico', cursive;
   font-size: 1rem;
 }
 
