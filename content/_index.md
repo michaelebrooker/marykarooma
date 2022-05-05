@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2022-04-27T21:16:50+01:00
-draft: true
+draft:
 menu: main
 type: page
 description: "Welcome"
