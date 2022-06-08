@@ -20,14 +20,8 @@ My background as British woman with Tamil roots that go deep, and my language sk
 My spiritual life informs all I do as a life-long Christian. 
 
 #### How can I help you?
-  - Landlord issues
-  - Passport applications and UK Driving licences
-  - Council Tax benefit and discounts
-  - Disability access to care, including: 
-  -  Personal Independence Payments, also call PIP. You need to know how the system works to be successful at convincing the assessors that you need help with everyday with living. 
-  - Spiritual (Christian) counselling, relationships, marriage, children 
-  - Safe guarding issues
-  - Other things ... 
+  - Advocacy 
+  - Cookery skills - all styles, and especially Asian
 
 If you would like my help, then please fill in my contact form with your name, email address or phone number. 
 {{<btn-prime text="Email form">}}
