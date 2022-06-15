@@ -6,7 +6,7 @@ menu: main
 type: page
 description: "Welcome"
 weight: 10
-keywords:
+keywords: ["Life Coaching", "advocacy", "cookery", "Tamil", "Christian"] 
 author:
 tags:
 ---
