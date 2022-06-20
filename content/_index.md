@@ -23,4 +23,4 @@ My spiritual life informs all I do as a life-long Christian.
   - Advocacy 
   - Cookery skills - all styles, and especially Asian
 
-If you would like my help, then please fill in my [contact form](formnotfound) with your name, email address or phone number.
+If you would like my help, then please fill in my [contact form](contact) with your name, and including your email address.
