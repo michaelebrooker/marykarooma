@@ -13,7 +13,7 @@ tags:
 
 <div class="row my-5">
     <div class="col-lg-10">
-<form name="contact" data-netlify-recaptcha="true" action="/success" method="POST" netlify-honeypot="title" data-netlify="true">
+<form name="contact" action="/success" method="POST" netlify-honeypot="title" data-netlify="true">
   <div class="visually-hidden">
   <label>Title: <input name="title">
     </label>
@@ -30,9 +30,6 @@ tags:
 <div class="mb-3">
   <label for="enq_text1" class="form-label">What would you like me to help you with?</label>
   <textarea class="form-control" id="enq_text1" rows="3" required></textarea>
-</div>
-<div class="mb-3">
-    <div data-netlify-recaptcha="true"></div> 
 </div>
 <div class="mb-3">
   <button type="submit" class="btn btn-primary">Submit</button>
