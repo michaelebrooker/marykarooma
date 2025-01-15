@@ -1,25 +1,27 @@
 {
-  "name": "nalinie",
+  "name": "karooma.com",
   "version": "1.0.0",
-  "description": "Nalinies website",
+  "description": "Temporary website for Mary following Tribunal case",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelebrooker/nalinie.git"
+    "url": ""
   },
   "keywords": [
-    "nalinie",
-    "santhamoorthy"
+    "Mary Karooma",
+    "Karooma-Brooker",
+    "Mary Karooma-Brooker",
+    "Landscape Architect"
   ],
   "author": "Michael Brooker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michaelebrooker/nalinie/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/michaelebrooker/nalinie#readme",
+  "homepage": "",
   "dependencies": {
     "bootstrap": "^5.1.3"
   }

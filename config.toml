@@ -1,11 +1,11 @@
-baseURL = "https://nalinie.netlify.app/"
+baseURL = "https://karooma.com/"
 languageCode = "en-us"
-title = "Nalinie Santhamoorthy"
-theme = "pomegranate"
+title = "Mary Karooma-Brooker - UK Landscape Architect"
+theme = "mkb25"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-copyright = "Copyright 2000-{year} Nalinie Santhamoorthy. All rights reserved."
+copyright = "Copyright 2000-{year} Mary Karooma-Brooker."
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
