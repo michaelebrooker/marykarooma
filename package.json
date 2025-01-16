@@ -1,10 +1,10 @@
 {
-  "name": "karooma.com",
+  "name": "marykarooma",
   "version": "1.0.0",
-  "description": "Temporary website for Mary January 2025",
+  "description": "Mary Karooma-Brooker personal website",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "none"
   },
   "repository": {
     "type": "git",
@@ -17,10 +17,6 @@
     "hugo-cli": "^0.14.0"
   },
   "keywords": [
-    "Mary Karooma",
-    "Karooma-Brooker",
-    "Mary Karooma-Brooker",
-    "Landscape Architect",
     "hugo"
-    ]
+  ]
 }

@@ -21,7 +21,6 @@ copyright = "Copyright 2000-{year} Mary Karooma-Brooker."
 
 
 [params]
-  sausages = 10
   pre = "<h3>Active"
   post = "</h3>"
   
