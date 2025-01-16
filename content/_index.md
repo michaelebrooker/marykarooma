@@ -6,8 +6,8 @@ menu: main
 type: page
 description: "Welcome"
 weight: 10
-keywords: ["Landscape Architecture", "Landscape Archited", "Royal Borough of Greenwich", "London", "Uganda", "Nkosi University"] 
-author:
+keywords: ["Landscape Architecture", "Landscape", "Landscape Architect", "paysagiste", "Landschaftsarchitekt", "Arquitecto paisajista", "Royal Borough of Greenwich", "London", "Uganda", "Nkosi University"] 
+author: "Michael Brooker"
 tags:
 ---
 

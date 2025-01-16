@@ -16,13 +16,16 @@
     "Mary Karooma-Brooker",
     "Landscape Architect"
   ],
-  "author": "Michael Brooker",
-  "license": "ISC",
-  "bugs": {
-    "url": ""
+
   },
-  "homepage": "",
+  "author": "Michael E Brooker",
+  "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.1.3"
-  }
+    "bootstrap": "^5.3.3",
+    "hugo-cli": "^0.14.0"
+  },
+  "keywords": [
+    "hugo"
+  ]
 }
+package.json (E
