@@ -1,22 +1,14 @@
 {
   "name": "karooma.com",
   "version": "1.0.0",
-  "description": "Temporary website for Mary following Tribunal case",
+  "description": "Temporary website for Mary January 2025",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": ""
-  },
-  "keywords": [
-    "Mary Karooma",
-    "Karooma-Brooker",
-    "Mary Karooma-Brooker",
-    "Landscape Architect"
-  ],
-
+    "url": "marykarooma"
   },
   "author": "Michael E Brooker",
   "license": "ISC",
@@ -25,7 +17,10 @@
     "hugo-cli": "^0.14.0"
   },
   "keywords": [
+    "Mary Karooma",
+    "Karooma-Brooker",
+    "Mary Karooma-Brooker",
+    "Landscape Architect",
     "hugo"
-  ]
+    ]
 }
-package.json (E
