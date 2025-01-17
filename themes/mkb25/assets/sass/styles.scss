@@ -1,7 +1,7 @@
 // custom styles for marykarooma.netlify.app, January 2025 
 // Author: Mike Brooker
-// Stylesheet adapted from micdoc/midday theme
-// Revision: 0  23/06/2021
+// Stylesheet adapted from midday theme
+// Revision: 0  17/01/2025
 
 // now using Bootstrap5.3.3
 // new colours
@@ -80,24 +80,4 @@ h3 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: x-large;
 }
-blockquote {
-  border: 1px solid #b3b3b3;
-  border-left: 10px solid $hdcolor;
-  border-radius: 0px;
-  background: $hddcolor;
-  font-size: 18px;
-  color: $hccolor;
-  margin: 10px;
-  padding: 10px 20px;
 
-section {
-    margin: auto;
-    padding-top: 10px;
-}
-div#sectionleft {
-    float: left;
-    margin-right: 10px;
-}
-div#sectionright {
-    margin: auto;
-}
