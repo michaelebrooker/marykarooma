@@ -5,7 +5,7 @@ theme = "mkb25"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-copyright = "Copyright 2000-{year} Mary Karooma-Brooker."
+copyright = "Copyright 2008-{year} Mary Karooma-Brooker."
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]

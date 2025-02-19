@@ -6,18 +6,18 @@ menu: main
 type: page
 description: "Welcome"
 weight: 10
-keywords: ["Landscape Architecture", "Landscape", "Landscape Architect", "paysagiste", "Landschaftsarchitekt", "Arquitecto paisajista", "Royal Borough of Greenwich", "London", "Uganda", "Nkosi University"] 
+keywords: ["Landscape Architecture", "Landscape", "Landscape Architect", "paysagiste", "Landschaftsarchitekt", "Arquitecto paisajista", "Royal Borough of Greenwich", "London", "Kampala", "Uganda", "Nkosi University"] 
 author: "Michael Brooker"
 tags:
 ---
 
 {{<floatimageright img="/images/marykarooma-brooker.jpg" text="Mary Karooma-Brooker">}}
 
-I am a British-Ugandan Landscape Architect working for a London Local Authority since 2017. I studied and qualified with an BA(hons) and landscape Diploma, in 2008 at the University of Greenwich and subsequently went on to take an MA also at Greenwich University's School of Architecture, specialising in Landscape Planning and Assessment. 
+I am a **British-Ugandan Landscape Architect** with a **BA(Hons), Diploma, and MA** - all in **Landscape Architecture** and from the University of Greenwich's Architectural School in London. 
 
-Having worked in two Landscape practices for some years in Kent and then Southeast London, I left to work in Uganda my place of birth, and while there I wrote and taught an MA Landscape Architecture course for Nkosi University's School of Architecture. Kampala is the Capital of Uganda and I was recruited by City's, then newly created regional authority, Kampala Capital City Authority (KCCA), to work on landscape projects to 'turn the City green. 
+After qualifying, I worked in private landscape practice in London and Kent, including a master-plan for a major new senior school. Following this I moved back to Uganda and for three years I was responsible for a landscape department with more than 500 people. I set up a landscape design design studio, and led a team of planners, architects, landscape architects as well having management for a large team of landscape implementers and maintainers. And I was acting Deputy Director of Planning for the City. 
 
-Over a period of three years In my role at KCCA, I was responsible for more than 500 people, including creating a design studio, and leading a team of planners, architects, landscape architects as well as a large team of landscape implementers and maintainers. 
+I have also worked for the Royal Borough of Greenwich, London, where I was worked as lead Landscape Architect in carrying out work on parks, and pitching for funding for community projects which were then put out to tender for procurement to be implemented. 
 
-We carried out many landscape improvement schemes, and focussed a lot of our time on strategic planning for the City authority. 
+And I have also worked as a lecturer. I wrote and taught an MA Landscape Architecture Course for Uganda Martyrs University at Nkosi.
 
